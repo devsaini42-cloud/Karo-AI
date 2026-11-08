@@ -1,0 +1,1 @@
+KARO AI starter: index.html, server.js, package.json और .env.example एक ही folder में हैं। इसे Node.js hosting पर चलाएँ। npm install फिर सुरक्षित environment variables में OPENAI_API_KEY सेट करके npm start चलाएँ। API key कभी public repository या browser code में न डालें। यह पैकेज अपने आप public website पर live नहीं होता। API billing अलग हो सकती है।
